@@ -8,7 +8,6 @@ Healthcare Operations Dashboard
 
    The Healthcare Operations Dashboard is a data-driven web application built using Streamlit.
    It transforms raw hospital operational data into interactive visual insights to support effective decision-making in healthcare management.
-
    This application helps hospital administrators and stakeholders monitor, analyze, and optimize operational performance.
 
 3. Project Objectives
